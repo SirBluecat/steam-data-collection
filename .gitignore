@@ -1,0 +1,6 @@
+.private/
+test_data/
+data/apps_data/review_data.json
+test.py
+sample.json
+main.py

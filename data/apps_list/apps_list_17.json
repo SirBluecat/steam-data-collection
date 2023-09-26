@@ -1,0 +1,2580 @@
+{
+    "response": {
+        "apps": [
+            {
+                "appid": 2443780,
+                "name": "Settlemoon",
+                "last_modified": 1685120685,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2443820,
+                "name": "Sensory Deprivation",
+                "last_modified": 1685890314,
+                "price_change_number": 18864847
+            },
+            {
+                "appid": 2443870,
+                "name": "\u964d\u5996\u5e08Demon Subduing Master",
+                "last_modified": 1686568661,
+                "price_change_number": 19134089
+            },
+            {
+                "appid": 2443900,
+                "name": "A Simple Expurriment",
+                "last_modified": 1685643847,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2443910,
+                "name": "The Ultimate Death Clock",
+                "last_modified": 1686196171,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2443990,
+                "name": "Engaging Destiny",
+                "last_modified": 1686333175,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444000,
+                "name": "\u30e9\u30fc\u30e1\u30f3\u3042\u3076\u3089\u96c6\u3081",
+                "last_modified": 1685599384,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444140,
+                "name": "Single Malt Apocalypse",
+                "last_modified": 1686336003,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444210,
+                "name": "HANA : Hide and seek",
+                "last_modified": 1686399542,
+                "price_change_number": 19119090
+            },
+            {
+                "appid": 2444230,
+                "name": "Exchange Student",
+                "last_modified": 1686631167,
+                "price_change_number": 19144171
+            },
+            {
+                "appid": 2444250,
+                "name": "Flipshot",
+                "last_modified": 1686020521,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444350,
+                "name": "Enchanted Portals",
+                "last_modified": 1684915903,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444370,
+                "name": "49 Squares",
+                "last_modified": 1685717450,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444380,
+                "name": "Mines Of Moritania",
+                "last_modified": 1686076146,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444420,
+                "name": "Sunya",
+                "last_modified": 1686597443,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444470,
+                "name": "Terminal 81",
+                "last_modified": 1685061713,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444480,
+                "name": "Riddle for your Life",
+                "last_modified": 1685269809,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444600,
+                "name": "Times Of War",
+                "last_modified": 1686458394,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444620,
+                "name": "The Hotel",
+                "last_modified": 1684894263,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444660,
+                "name": "\ub124\uac1c\uc758 \ube5b",
+                "last_modified": 1685498021,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444700,
+                "name": "The Event",
+                "last_modified": 1685551488,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444710,
+                "name": "\u8cb4\u65b9\u304c\u72fc\u30ab\u30fc\u30c9\u30c7\u30b9\uff01",
+                "last_modified": 1685554797,
+                "price_change_number": 18873552
+            },
+            {
+                "appid": 2444760,
+                "name": "Nexomon 3",
+                "last_modified": 1686676668,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444790,
+                "name": "\u5c0f\u767d\u4eba\u5bf9\u51b3x\uff08Little White Man vs X\uff09",
+                "last_modified": 1685728550,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444810,
+                "name": "VoltAge:Genesis",
+                "last_modified": 1685187523,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444840,
+                "name": "Cryptid",
+                "last_modified": 1686073835,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444850,
+                "name": "Neverending Check-in: The Hotel Stories",
+                "last_modified": 1686077738,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444890,
+                "name": "Launch Director",
+                "last_modified": 1686482586,
+                "price_change_number": 18875076
+            },
+            {
+                "appid": 2444960,
+                "name": "Wild West Pistolero",
+                "last_modified": 1686154713,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444970,
+                "name": "PROJECT: OBSCURION",
+                "last_modified": 1685953693,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2444980,
+                "name": "Chasing rabbits in snow",
+                "last_modified": 1686128821,
+                "price_change_number": 19077868
+            },
+            {
+                "appid": 2445040,
+                "name": "Realm Craft",
+                "last_modified": 1684947096,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445060,
+                "name": "Hirocato - The Delivery Hero",
+                "last_modified": 1685393005,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445090,
+                "name": "Keepers of Astraela",
+                "last_modified": 1686537141,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445110,
+                "name": "Cecil Hollow",
+                "last_modified": 1685731868,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445130,
+                "name": "Furry Toys",
+                "last_modified": 1686337752,
+                "price_change_number": 19113065
+            },
+            {
+                "appid": 2445140,
+                "name": "Turn on the light - Jigsaw",
+                "last_modified": 1685711623,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445160,
+                "name": "Zeta Leporis RTS",
+                "last_modified": 1685939216,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445200,
+                "name": "Gulch Guardians",
+                "last_modified": 1686303307,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445210,
+                "name": "\u7a7a\u60f3\u5c11\u5973 Imaginary girl -\u524d\u65e5\u8b5a Prequel",
+                "last_modified": 1686091322,
+                "price_change_number": 18877810
+            },
+            {
+                "appid": 2445290,
+                "name": "C17",
+                "last_modified": 1685672498,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445310,
+                "name": "Cradles",
+                "last_modified": 1685673057,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445340,
+                "name": "Love n Life: Lucky Teacher",
+                "last_modified": 1685441228,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445390,
+                "name": "Late Night Drive",
+                "last_modified": 1686258139,
+                "price_change_number": 19081471
+            },
+            {
+                "appid": 2445420,
+                "name": "K\u0101la",
+                "last_modified": 1685719512,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445460,
+                "name": "happiness market",
+                "last_modified": 1685749678,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445490,
+                "name": "Majoneko",
+                "last_modified": 1686670688,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445510,
+                "name": "Contenders: Arena",
+                "last_modified": 1686325460,
+                "price_change_number": 18880574
+            },
+            {
+                "appid": 2445590,
+                "name": "Completely Fictional Story About a City Inside a Whale",
+                "last_modified": 1685168744,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445680,
+                "name": "Godmode Epochs",
+                "last_modified": 1686036648,
+                "price_change_number": 18881417
+            },
+            {
+                "appid": 2445780,
+                "name": "Grifford Academy",
+                "last_modified": 1686287225,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445790,
+                "name": "Bennu Bennu: Protect the Pyramid",
+                "last_modified": 1685342985,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445840,
+                "name": "Annulus",
+                "last_modified": 1686301996,
+                "price_change_number": 19094686
+            },
+            {
+                "appid": 2445870,
+                "name": "Fellowship",
+                "last_modified": 1686632092,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445910,
+                "name": "Shield King",
+                "last_modified": 1685460054,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2445990,
+                "name": "Bloomtown: A Different Story",
+                "last_modified": 1686508124,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446010,
+                "name": "BlueCloud Summit",
+                "last_modified": 1686208354,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446030,
+                "name": "BloodDome Classic",
+                "last_modified": 1686664690,
+                "price_change_number": 19073754
+            },
+            {
+                "appid": 2446080,
+                "name": "RoomNo.404",
+                "last_modified": 1686231320,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446130,
+                "name": "Sounds of Nature",
+                "last_modified": 1686582315,
+                "price_change_number": 19136898
+            },
+            {
+                "appid": 2446160,
+                "name": "Destruct Blocks",
+                "last_modified": 1686212770,
+                "price_change_number": 19091906
+            },
+            {
+                "appid": 2446180,
+                "name": "Backdoors",
+                "last_modified": 1685709635,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446200,
+                "name": "Dice Mayor",
+                "last_modified": 1686239316,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446330,
+                "name": "\u30cb\u30e3\u30f3\u30d1\u30e4",
+                "last_modified": 1685730233,
+                "price_change_number": 18886314
+            },
+            {
+                "appid": 2446340,
+                "name": "Garestia",
+                "last_modified": 1685573627,
+                "price_change_number": 18887222
+            },
+            {
+                "appid": 2446370,
+                "name": "A Birthday Present",
+                "last_modified": 1685152480,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446500,
+                "name": "The Silicon Shadow",
+                "last_modified": 1686407775,
+                "price_change_number": 19110329
+            },
+            {
+                "appid": 2446510,
+                "name": "Untold Atlas",
+                "last_modified": 1686110212,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446560,
+                "name": "Waking Atlas",
+                "last_modified": 1685067752,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446600,
+                "name": "Dark Deity 2",
+                "last_modified": 1686655936,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446620,
+                "name": "Communite",
+                "last_modified": 1685838734,
+                "price_change_number": 18889158
+            },
+            {
+                "appid": 2446680,
+                "name": "Drive Me to Hell",
+                "last_modified": 1686213268,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446700,
+                "name": "Doomies",
+                "last_modified": 1686195270,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446710,
+                "name": "Cyberside Picnic",
+                "last_modified": 1686067325,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446740,
+                "name": "X-Force Under Attack",
+                "last_modified": 1686591417,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446760,
+                "name": "YASUKE: A Lost Descendant",
+                "last_modified": 1686427670,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446870,
+                "name": "MONOTONIA",
+                "last_modified": 1685736792,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446880,
+                "name": "CAT AND LADDER CLIMB",
+                "last_modified": 1686547413,
+                "price_change_number": 19129086
+            },
+            {
+                "appid": 2446890,
+                "name": "NOAH",
+                "last_modified": 1685824290,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446920,
+                "name": "Tower Shield",
+                "last_modified": 1686196719,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2446990,
+                "name": "Knight Foretold",
+                "last_modified": 1686019396,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447010,
+                "name": "The Hunted Witch",
+                "last_modified": 1686557008,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447060,
+                "name": "Monster Tiles TD",
+                "last_modified": 1686658923,
+                "price_change_number": 18892452
+            },
+            {
+                "appid": 2447080,
+                "name": "Miasma",
+                "last_modified": 1685977311,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447120,
+                "name": "\ubca0\uc77c\ub4dc \uc5e3\uc9c0(Veiled Edge)",
+                "last_modified": 1685694840,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447150,
+                "name": "Cynostone",
+                "last_modified": 1686087593,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447230,
+                "name": "S\u00e1ivu",
+                "last_modified": 1686385153,
+                "price_change_number": 19117903
+            },
+            {
+                "appid": 2447240,
+                "name": "Roving Rovers",
+                "last_modified": 1686641359,
+                "price_change_number": 18893760
+            },
+            {
+                "appid": 2447290,
+                "name": "Machi: Above the Void",
+                "last_modified": 1685655576,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447310,
+                "name": "Knight Overloaded",
+                "last_modified": 1686468913,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447330,
+                "name": "Hades Nebula (C64/Spectrum)",
+                "last_modified": 1686646593,
+                "price_change_number": 19146318
+            },
+            {
+                "appid": 2447460,
+                "name": "Conquered Dread",
+                "last_modified": 1686541521,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447480,
+                "name": "Dungeon Raiders",
+                "last_modified": 1685878782,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447490,
+                "name": "After School",
+                "last_modified": 1685551481,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447530,
+                "name": "Xargon Remake Ep.3",
+                "last_modified": 1685662756,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447540,
+                "name": "Anamnesis",
+                "last_modified": 1686141463,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447550,
+                "name": "KDimension",
+                "last_modified": 1686571107,
+                "price_change_number": 18895236
+            },
+            {
+                "appid": 2447680,
+                "name": "Island Notes",
+                "last_modified": 1685233327,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447720,
+                "name": "Burger Zombies",
+                "last_modified": 1685629367,
+                "price_change_number": 19128599
+            },
+            {
+                "appid": 2447750,
+                "name": "Secret Agent No. 6",
+                "last_modified": 1685992462,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447800,
+                "name": "Re-Bounder",
+                "last_modified": 1685975288,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447820,
+                "name": "Survivor's guilt",
+                "last_modified": 1686113401,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447830,
+                "name": "A Deep Rest",
+                "last_modified": 1686057473,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2447880,
+                "name": "Project Hoyr\u00e1",
+                "last_modified": 1686528970,
+                "price_change_number": 18897819
+            },
+            {
+                "appid": 2447920,
+                "name": "Qu\u00e9bec Mortis",
+                "last_modified": 1686674548,
+                "price_change_number": 19133600
+            },
+            {
+                "appid": 2447980,
+                "name": "Crown Gambit",
+                "last_modified": 1686645283,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448130,
+                "name": "Sex on Beach",
+                "last_modified": 1686674093,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448270,
+                "name": "Mars Survivors",
+                "last_modified": 1686012593,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448340,
+                "name": "TRY AGAIN",
+                "last_modified": 1686080285,
+                "price_change_number": 18901503
+            },
+            {
+                "appid": 2448380,
+                "name": "Rescue Contest",
+                "last_modified": 1686072944,
+                "price_change_number": 18901776
+            },
+            {
+                "appid": 2448460,
+                "name": "SHIMAZU",
+                "last_modified": 1686242827,
+                "price_change_number": 19092103
+            },
+            {
+                "appid": 2448550,
+                "name": "A Test",
+                "last_modified": 1686677023,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448610,
+                "name": "Beast Slayer",
+                "last_modified": 1685040323,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448620,
+                "name": "Revenge Of Noxi",
+                "last_modified": 1686169138,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448660,
+                "name": "Last Hope",
+                "last_modified": 1686579639,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448700,
+                "name": "\u58a8\u8272\u4e09\u56fd\u5fd7\u2161",
+                "last_modified": 1685758865,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448710,
+                "name": "You're My Penguin",
+                "last_modified": 1686540515,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448810,
+                "name": "Golf: Hole in One",
+                "last_modified": 1686687606,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448830,
+                "name": "Time Handlers",
+                "last_modified": 1686579712,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448930,
+                "name": "Starstruck Vagabond",
+                "last_modified": 1686165401,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448940,
+                "name": "flappy bird ultra",
+                "last_modified": 1685785278,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2448970,
+                "name": "Project Crawl",
+                "last_modified": 1685985551,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449040,
+                "name": "Cursorblade",
+                "last_modified": 1685985293,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449060,
+                "name": "15 Minutes Dungeon",
+                "last_modified": 1686639551,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449080,
+                "name": "Dungeon No Dungeon: Tyrant's Endgame",
+                "last_modified": 1686652644,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449160,
+                "name": "While Waiting",
+                "last_modified": 1685161410,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449180,
+                "name": "\u73af\u5f62\u6740\u624b Circle Killer",
+                "last_modified": 1686019412,
+                "price_change_number": 18908483
+            },
+            {
+                "appid": 2449300,
+                "name": "Mutants (C64/Amstrad/Spectrum)",
+                "last_modified": 1685432432,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449310,
+                "name": "Breaking Friendships",
+                "last_modified": 1686353733,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449360,
+                "name": "oOme",
+                "last_modified": 1686234105,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449390,
+                "name": "Vegangsters",
+                "last_modified": 1685544053,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449400,
+                "name": "My Furry Succubus \ud83d\udc3e",
+                "last_modified": 1685190982,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449430,
+                "name": "Incremental Factory",
+                "last_modified": 1686145546,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449490,
+                "name": "Plasmatic",
+                "last_modified": 1686554340,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449530,
+                "name": "Gehenna",
+                "last_modified": 1685284768,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449630,
+                "name": "Tower of Pandemonium",
+                "last_modified": 1685748592,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449680,
+                "name": "Koi Zen: Opposite Colors",
+                "last_modified": 1686428817,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449690,
+                "name": "Underdose",
+                "last_modified": 1685716979,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449720,
+                "name": "Chase",
+                "last_modified": 1685996374,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449830,
+                "name": "Forest Horror",
+                "last_modified": 1686297862,
+                "price_change_number": 19105624
+            },
+            {
+                "appid": 2449840,
+                "name": "Royalevia",
+                "last_modified": 1686297826,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449890,
+                "name": "Route 13",
+                "last_modified": 1686010157,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449900,
+                "name": "Selfish Cupid - BL (Boys Love) Visual Novel",
+                "last_modified": 1685174365,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449940,
+                "name": "WildCraft",
+                "last_modified": 1685106410,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2449980,
+                "name": "Other World Survivors:Prologue",
+                "last_modified": 1686630153,
+                "price_change_number": 18915004
+            },
+            {
+                "appid": 2450020,
+                "name": "IMMAY",
+                "last_modified": 1686247367,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450030,
+                "name": "LabyrInk",
+                "last_modified": 1686321296,
+                "price_change_number": 18915694
+            },
+            {
+                "appid": 2450040,
+                "name": "Aftershock: Coastline",
+                "last_modified": 1686165804,
+                "price_change_number": 18915770
+            },
+            {
+                "appid": 2450060,
+                "name": "Rionag: Survey Fleet",
+                "last_modified": 1685711816,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450080,
+                "name": "SCROOMAGE",
+                "last_modified": 1685149139,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450100,
+                "name": "\u897f\u6e38\u5e78\u5b58\u8005 Journey to the West Survivor",
+                "last_modified": 1685734220,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450130,
+                "name": "Sex Hotel Simulator \ud83c\udfe9",
+                "last_modified": 1685518450,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450160,
+                "name": "Conscience",
+                "last_modified": 1686422118,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450250,
+                "name": "cluck-a-thon",
+                "last_modified": 1686231184,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450400,
+                "name": "Trash of the Titans",
+                "last_modified": 1686454585,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450480,
+                "name": "\u653e\u7f6e\u4fee\u4ed9\u4e16\u754c",
+                "last_modified": 1686665389,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450530,
+                "name": "Sex Simulator - BDSM 2",
+                "last_modified": 1685738466,
+                "price_change_number": 19069199
+            },
+            {
+                "appid": 2450540,
+                "name": "Mango's Wonderland",
+                "last_modified": 1686690624,
+                "price_change_number": 19061748
+            },
+            {
+                "appid": 2450700,
+                "name": "Drug Lord Tycoon",
+                "last_modified": 1685732413,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450750,
+                "name": "Yume Memory",
+                "last_modified": 1685651978,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2450870,
+                "name": "Main Action",
+                "last_modified": 1686222100,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451010,
+                "name": "Project Hunt",
+                "last_modified": 1686085768,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451040,
+                "name": "Scarlet Lake",
+                "last_modified": 1685301905,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451110,
+                "name": "End of Knights",
+                "last_modified": 1686128057,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451140,
+                "name": "Mannequin The Spotting",
+                "last_modified": 1686621545,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451230,
+                "name": "Starship Traders MMO",
+                "last_modified": 1686580886,
+                "price_change_number": 18927137
+            },
+            {
+                "appid": 2451250,
+                "name": "Dimensional Dexterity",
+                "last_modified": 1686642638,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451290,
+                "name": "Hot Rider",
+                "last_modified": 1686582541,
+                "price_change_number": 19136999
+            },
+            {
+                "appid": 2451310,
+                "name": "Monster Mop Up",
+                "last_modified": 1686231462,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451320,
+                "name": "Bulletstorm VR",
+                "last_modified": 1685699003,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451500,
+                "name": "Slippery Sammy",
+                "last_modified": 1686573038,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451530,
+                "name": "WarSphere",
+                "last_modified": 1686432061,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451750,
+                "name": "NOK",
+                "last_modified": 1686230644,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451760,
+                "name": "Spell Legion",
+                "last_modified": 1686687875,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451880,
+                "name": "Find with Seoul: Story Puzzle",
+                "last_modified": 1685770073,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2451940,
+                "name": "Forest Phantoms",
+                "last_modified": 1686228160,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452170,
+                "name": "Freeman\u2122",
+                "last_modified": 1686156117,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452220,
+                "name": "Sevyal",
+                "last_modified": 1686577981,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452240,
+                "name": "Desktop Mark",
+                "last_modified": 1686618786,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452300,
+                "name": "Restaurant Simulator 2023",
+                "last_modified": 1685511565,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452320,
+                "name": "Folly Of The Wizards",
+                "last_modified": 1685898749,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452370,
+                "name": "A Shadow Cast on Water",
+                "last_modified": 1686076343,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452420,
+                "name": "Line's Guarder",
+                "last_modified": 1685778004,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452480,
+                "name": "Neon Fantasy: Girls",
+                "last_modified": 1686646067,
+                "price_change_number": 19145376
+            },
+            {
+                "appid": 2452590,
+                "name": "Mobbers",
+                "last_modified": 1685610838,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452750,
+                "name": "Medical Record Sheet",
+                "last_modified": 1685724810,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452760,
+                "name": "TV Head: Eight Pages",
+                "last_modified": 1686299800,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452800,
+                "name": "EON Trooper",
+                "last_modified": 1686511395,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2452850,
+                "name": "Land Above Sea Below Prologue",
+                "last_modified": 1686579464,
+                "price_change_number": 18944626
+            },
+            {
+                "appid": 2452940,
+                "name": "Approaching Cao Army",
+                "last_modified": 1686574026,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453060,
+                "name": "Dreamcore",
+                "last_modified": 1685758019,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453160,
+                "name": "Sword of the Sea",
+                "last_modified": 1685621589,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453180,
+                "name": "Cat Lobster Simulator",
+                "last_modified": 1686368130,
+                "price_change_number": 18949189
+            },
+            {
+                "appid": 2453260,
+                "name": "\u5766\u514b\u82f1\u96c4 TankHero",
+                "last_modified": 1686158440,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453280,
+                "name": "Doozie the Unicorn",
+                "last_modified": 1686689867,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453320,
+                "name": "Dobuki's Epic Journey",
+                "last_modified": 1685732135,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453430,
+                "name": "Daedalus: You Have Been Chosen",
+                "last_modified": 1686330768,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453440,
+                "name": "\u91cd\u751f\u4e4b\u65f6 - Rebirth Moment",
+                "last_modified": 1686238156,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453520,
+                "name": "Idle: Generators",
+                "last_modified": 1685557213,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453530,
+                "name": "White Blade",
+                "last_modified": 1686650420,
+                "price_change_number": 19147054
+            },
+            {
+                "appid": 2453550,
+                "name": "The Cannon Fighters",
+                "last_modified": 1685773397,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453560,
+                "name": "Otherworld Hero",
+                "last_modified": 1686045099,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453570,
+                "name": "Freddy's Archives: Remains Of The Past",
+                "last_modified": 1686680303,
+                "price_change_number": 18961711
+            },
+            {
+                "appid": 2453580,
+                "name": "Dildo Catcher",
+                "last_modified": 1685552902,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453600,
+                "name": "Danger Drop",
+                "last_modified": 1686521706,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453610,
+                "name": "Towerful Defense: A Rogue TD",
+                "last_modified": 1686568356,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453640,
+                "name": "No Stone Unturned",
+                "last_modified": 1685538576,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453720,
+                "name": "Fate Collectors",
+                "last_modified": 1686016889,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453740,
+                "name": "Air Offense Command",
+                "last_modified": 1686674014,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453760,
+                "name": "HongKong Noir",
+                "last_modified": 1686444890,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453770,
+                "name": "Pop and Chicks",
+                "last_modified": 1686678805,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2453980,
+                "name": "super world run - bosses",
+                "last_modified": 1686582042,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454000,
+                "name": "Rafting Frenzy",
+                "last_modified": 1685558737,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454020,
+                "name": "Mimi the Cat - New Friends",
+                "last_modified": 1686270432,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454030,
+                "name": "Winnie-the-Pooh: Realm of Torment",
+                "last_modified": 1685980785,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454040,
+                "name": "Floppy Cat Bow Golf!",
+                "last_modified": 1686438717,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454060,
+                "name": "MAZEMAZE",
+                "last_modified": 1685592513,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454070,
+                "name": "Desolated District",
+                "last_modified": 1686241244,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454110,
+                "name": "Coraland: the worst rescuer",
+                "last_modified": 1686577470,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454140,
+                "name": "Bichito Clicker",
+                "last_modified": 1686113401,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454170,
+                "name": "Doodle Dice Monsters",
+                "last_modified": 1686496387,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454210,
+                "name": "\u9b54\u738b\u4f20\u8bf4",
+                "last_modified": 1686547630,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454230,
+                "name": "Maze Girl",
+                "last_modified": 1686142048,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454240,
+                "name": "CATS GAME: stray cat, pet kitty, dog simulation adventure",
+                "last_modified": 1686681367,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454290,
+                "name": "Chickenality",
+                "last_modified": 1686250507,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454300,
+                "name": "For Double",
+                "last_modified": 1686250597,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454310,
+                "name": "Burning Calories",
+                "last_modified": 1686250450,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454320,
+                "name": "Magic Trap",
+                "last_modified": 1686250655,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454350,
+                "name": "REDLINE CROOKS",
+                "last_modified": 1685987751,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454360,
+                "name": "Irrational",
+                "last_modified": 1685804761,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454420,
+                "name": "Paragon Pioneers 2",
+                "last_modified": 1685969537,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454510,
+                "name": "Dan Factory",
+                "last_modified": 1685990448,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454550,
+                "name": "ROBOHUNT",
+                "last_modified": 1686064953,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454710,
+                "name": "MoldLab",
+                "last_modified": 1686150499,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454740,
+                "name": "Puzzled Towers",
+                "last_modified": 1686364015,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2454820,
+                "name": "TECHNOPHOBIA: DO ANDROIDS GO TO HEAVEN?",
+                "last_modified": 1686675623,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455170,
+                "name": "Clock Ticker",
+                "last_modified": 1685972684,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455180,
+                "name": "Moose Lost in the Woods",
+                "last_modified": 1685731951,
+                "price_change_number": 18980789
+            },
+            {
+                "appid": 2455260,
+                "name": "RoundRunners Playground",
+                "last_modified": 1686411344,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455350,
+                "name": "The Deadly Path",
+                "last_modified": 1686410636,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455370,
+                "name": "Russian Village Simulator",
+                "last_modified": 1685712451,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455380,
+                "name": "Vaulted",
+                "last_modified": 1686081271,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455390,
+                "name": "Halcyon: The WaveBorn",
+                "last_modified": 1686562151,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455440,
+                "name": "Senpai Arena",
+                "last_modified": 1686319797,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455570,
+                "name": "Hao Diary: Make a Game",
+                "last_modified": 1686498400,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455680,
+                "name": "Ayako's Mission",
+                "last_modified": 1685675488,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455740,
+                "name": "Rad Venture",
+                "last_modified": 1685730371,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455900,
+                "name": "Astronauters",
+                "last_modified": 1686316042,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455920,
+                "name": "Mimic Logic",
+                "last_modified": 1685901374,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2455940,
+                "name": "After School",
+                "last_modified": 1686367635,
+                "price_change_number": 18971726
+            },
+            {
+                "appid": 2456020,
+                "name": "Withering Way",
+                "last_modified": 1686570486,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456100,
+                "name": "Stickman's Bad Luck",
+                "last_modified": 1686448058,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456110,
+                "name": "Predefined",
+                "last_modified": 1686687729,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456120,
+                "name": "Claw Machine Sim",
+                "last_modified": 1686391124,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456130,
+                "name": "Demon's Bane",
+                "last_modified": 1686070508,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456160,
+                "name": "Doors & Loot",
+                "last_modified": 1685990189,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456230,
+                "name": "Night Terrors",
+                "last_modified": 1686199153,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456260,
+                "name": "While waiting my turn",
+                "last_modified": 1685838568,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456280,
+                "name": "this morning I decided to die",
+                "last_modified": 1686581789,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456340,
+                "name": "\u592a\u516c\u4f20\u627f",
+                "last_modified": 1686552397,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456430,
+                "name": "Athena Crisis",
+                "last_modified": 1685701293,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456500,
+                "name": "Parallel Pals",
+                "last_modified": 1686151008,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456690,
+                "name": "Piece of..Horror",
+                "last_modified": 1685990484,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456820,
+                "name": "Falling Limbs",
+                "last_modified": 1686590493,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456860,
+                "name": "TheLastTrain",
+                "last_modified": 1686647867,
+                "price_change_number": 18980189
+            },
+            {
+                "appid": 2456960,
+                "name": "The 7th Guest VR",
+                "last_modified": 1685640047,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2456980,
+                "name": "Scare: Fatal Picture",
+                "last_modified": 1686677364,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457010,
+                "name": "Yodel-Oh!",
+                "last_modified": 1685729789,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457040,
+                "name": "Thyria: Step Into Dreams",
+                "last_modified": 1686664407,
+                "price_change_number": 18982525
+            },
+            {
+                "appid": 2457050,
+                "name": "Mearcair/System Pulse",
+                "last_modified": 1686628960,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457210,
+                "name": "Undershadows",
+                "last_modified": 1686236694,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457220,
+                "name": "Avowed",
+                "last_modified": 1686594660,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457410,
+                "name": "Choice of Rebels: Stormwright",
+                "last_modified": 1685718432,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457430,
+                "name": "Limit Choice",
+                "last_modified": 1686098032,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457600,
+                "name": "\u53db\u9006\u519b\u56e2VR / Revolt Legion VR",
+                "last_modified": 1686188565,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457630,
+                "name": "MILK ME DARLING: TITS FAIRY",
+                "last_modified": 1686646412,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457640,
+                "name": "HEARTRENDER",
+                "last_modified": 1686269228,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457700,
+                "name": "Panpu-ja",
+                "last_modified": 1686566578,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457770,
+                "name": "UnderTheStars : \u963f\u5170\u82e5",
+                "last_modified": 1686046669,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457870,
+                "name": "Sandy's Great Escape",
+                "last_modified": 1685956145,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2457920,
+                "name": "gOnshit infarct",
+                "last_modified": 1685809838,
+                "price_change_number": 18991300
+            },
+            {
+                "appid": 2457970,
+                "name": "Amicade",
+                "last_modified": 1686077014,
+                "price_change_number": 18991152
+            },
+            {
+                "appid": 2458010,
+                "name": "Dungeon Mutation",
+                "last_modified": 1686253636,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458060,
+                "name": "Soulkeeper Diaries",
+                "last_modified": 1686492034,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458210,
+                "name": "Tamer Vale",
+                "last_modified": 1686352952,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458230,
+                "name": "Street Sports Baseball",
+                "last_modified": 1685717098,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458330,
+                "name": "Sex Simulator - Futanari BDSM",
+                "last_modified": 1686127861,
+                "price_change_number": 19077670
+            },
+            {
+                "appid": 2458410,
+                "name": "Hex Racer",
+                "last_modified": 1686594660,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458440,
+                "name": "Checkmate! My Shogi Club President can't be this Cute!",
+                "last_modified": 1686129312,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458500,
+                "name": "Venatur",
+                "last_modified": 1686347273,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458580,
+                "name": "Loading Simulator",
+                "last_modified": 1686151126,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458620,
+                "name": "Fred's Cereal Company",
+                "last_modified": 1686064827,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458700,
+                "name": "Mad Miner",
+                "last_modified": 1686665230,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458830,
+                "name": "Towerborne",
+                "last_modified": 1686602966,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458920,
+                "name": "WAGON",
+                "last_modified": 1686288443,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458940,
+                "name": "Farm Keeper",
+                "last_modified": 1686495788,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2458980,
+                "name": "Dimhaven Enigmas",
+                "last_modified": 1685989625,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459030,
+                "name": "Locator",
+                "last_modified": 1686514856,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459150,
+                "name": "Tyrannis: Co-Prosperity",
+                "last_modified": 1686399909,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459170,
+                "name": "AGENT JUMP",
+                "last_modified": 1686601051,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459290,
+                "name": "Hungry Dogs",
+                "last_modified": 1686017353,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459400,
+                "name": "\u4e5d\u5929\u4e4b\u8d77\u6e90",
+                "last_modified": 1686113842,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459410,
+                "name": "\u673a\u6218\u65b0\u4e16\u7eaa",
+                "last_modified": 1686324095,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459430,
+                "name": "Plastomorphosis",
+                "last_modified": 1686378670,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459450,
+                "name": "TERO - Terror Hour",
+                "last_modified": 1686380110,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459460,
+                "name": "Grapplania",
+                "last_modified": 1685740900,
+                "price_change_number": 19004979
+            },
+            {
+                "appid": 2459490,
+                "name": "This Grand Life 2",
+                "last_modified": 1686103787,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459560,
+                "name": "Paris Transylvania",
+                "last_modified": 1686488697,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459620,
+                "name": "William and Sly",
+                "last_modified": 1686552811,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2459850,
+                "name": "Sneaky Seekers",
+                "last_modified": 1685903329,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460000,
+                "name": "Sakura in Paris",
+                "last_modified": 1686135935,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460010,
+                "name": "Epic Pandemonium",
+                "last_modified": 1686187727,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460050,
+                "name": "Gate of Souls",
+                "last_modified": 1686509077,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460060,
+                "name": "Vasilisa the Wise",
+                "last_modified": 1686390563,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460190,
+                "name": "City Gridlock",
+                "last_modified": 1686070242,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460230,
+                "name": "Dungeon Journey",
+                "last_modified": 1686580816,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460260,
+                "name": "Swiggart's Last Will",
+                "last_modified": 1686404726,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460270,
+                "name": "\u6232\u5047\u6210\u771f",
+                "last_modified": 1686210630,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460310,
+                "name": "Wendigo",
+                "last_modified": 1686071202,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460360,
+                "name": "My Mistress Lu Bu",
+                "last_modified": 1686538914,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460450,
+                "name": "3 Scary Games",
+                "last_modified": 1686056553,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460520,
+                "name": "Pretty Dreadful: Heritage",
+                "last_modified": 1686217852,
+                "price_change_number": 19038972
+            },
+            {
+                "appid": 2460570,
+                "name": "Sex Story - Ruby and Hunter - Episode 1",
+                "last_modified": 1686649916,
+                "price_change_number": 19146948
+            },
+            {
+                "appid": 2460580,
+                "name": "ELDRIMAR: Prologue",
+                "last_modified": 1686246289,
+                "price_change_number": 19122584
+            },
+            {
+                "appid": 2460640,
+                "name": "Dreaming Diorama",
+                "last_modified": 1686107849,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460680,
+                "name": "Bubblegum Bandit",
+                "last_modified": 1686241565,
+                "price_change_number": 19015793
+            },
+            {
+                "appid": 2460730,
+                "name": "Future Offline",
+                "last_modified": 1686322136,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460880,
+                "name": "\u9e21\u8089\u54e5\u54e5 Chicken Brother",
+                "last_modified": 1686133124,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460900,
+                "name": "Cursed Bet",
+                "last_modified": 1686249757,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460910,
+                "name": "Pandora",
+                "last_modified": 1686686471,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460940,
+                "name": "Zero Below The Sun",
+                "last_modified": 1686001030,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2460960,
+                "name": "Edge of DVRRRKNESS",
+                "last_modified": 1686142134,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461000,
+                "name": "Let's Learn Ling\u00edt",
+                "last_modified": 1686607374,
+                "price_change_number": 19103703
+            },
+            {
+                "appid": 2461010,
+                "name": "Curse of the Shadow Samurai",
+                "last_modified": 1686253660,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461040,
+                "name": "Crazy Brain",
+                "last_modified": 1686371373,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461120,
+                "name": "\u6297\u65e5\u82f1\u96c4Anti Japanese Heroes",
+                "last_modified": 1686270690,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461190,
+                "name": "Pipelinks",
+                "last_modified": 1686214150,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461450,
+                "name": "panomap",
+                "last_modified": 1686255329,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461490,
+                "name": "The Adventure of TED  and the lost magic crystals",
+                "last_modified": 1686676591,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461540,
+                "name": "Artificial Fright",
+                "last_modified": 1686010167,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461560,
+                "name": "Water Defense",
+                "last_modified": 1686581535,
+                "price_change_number": 19023801
+            },
+            {
+                "appid": 2461630,
+                "name": "My Littlest Skeleton",
+                "last_modified": 1686146287,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461750,
+                "name": "My Name is Uncle Groucho You Win a Fat Cigar",
+                "last_modified": 1685970703,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461780,
+                "name": "\u7f51\u763e\u5c11\u5e742005 Internet addicted youth 2005",
+                "last_modified": 1686387494,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461850,
+                "name": "Senua\u2019s Saga: Hellblade II",
+                "last_modified": 1686507415,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461910,
+                "name": "Cyberware Fighters",
+                "last_modified": 1686276739,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2461990,
+                "name": "Le voyage de Lucy",
+                "last_modified": 1686333223,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462060,
+                "name": "Graveyard Gunslingers",
+                "last_modified": 1686514371,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462090,
+                "name": "Star Knight: Order of the Vortex",
+                "last_modified": 1686615375,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462120,
+                "name": "Drugz - 2D Drug Empire Simulator",
+                "last_modified": 1686075565,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462150,
+                "name": "The Richmond Rut (In Search of Fenton)",
+                "last_modified": 1686322985,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462220,
+                "name": "Pippin's Mysterious Garden",
+                "last_modified": 1686625573,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462380,
+                "name": "SkyDribble",
+                "last_modified": 1686239719,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462440,
+                "name": "SPECTER",
+                "last_modified": 1686632200,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462450,
+                "name": "Conludus",
+                "last_modified": 1686511471,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462580,
+                "name": "Fista 3-in-1 Retro Pack (Carpet Shark, Plummet Challenge Game, & The Arm Wrestling Classic)",
+                "last_modified": 1686665756,
+                "price_change_number": 19150160
+            },
+            {
+                "appid": 2462610,
+                "name": "Magi's Dream",
+                "last_modified": 1686334769,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462690,
+                "name": "Survival & Horror: Hangman's Rope Prologue",
+                "last_modified": 1686246362,
+                "price_change_number": 19037044
+            },
+            {
+                "appid": 2462840,
+                "name": "Into The Inferno",
+                "last_modified": 1686592349,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462880,
+                "name": "Amogus TD 2 - Defense of the Sus",
+                "last_modified": 1686321806,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2462910,
+                "name": "Lucky Shield",
+                "last_modified": 1686323597,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463150,
+                "name": "Puzzle Time: Seasons",
+                "last_modified": 1686431346,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463160,
+                "name": "Farmer Simulator",
+                "last_modified": 1686166328,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463210,
+                "name": "Poly Jigsaw: Primates",
+                "last_modified": 1686131312,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463340,
+                "name": "Night Escape",
+                "last_modified": 1686255774,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463450,
+                "name": "Castlemancer",
+                "last_modified": 1686432319,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463500,
+                "name": "Backrooms Abyss",
+                "last_modified": 1686174566,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463560,
+                "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us",
+                "last_modified": 1686335597,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463610,
+                "name": "Spooky Crew: Mask of the Mysterium",
+                "last_modified": 1686178808,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463620,
+                "name": "Connection: The Nightmare Within",
+                "last_modified": 1686422130,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2463930,
+                "name": "The Letter",
+                "last_modified": 1686464252,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464140,
+                "name": "\u4e61\u6751\u72c2\u60f3\u66f2-\u7eaf\u51c0\u7248",
+                "last_modified": 1686541173,
+                "price_change_number": 19049193
+            },
+            {
+                "appid": 2464190,
+                "name": "ACCELERATE ZONE",
+                "last_modified": 1686647787,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464220,
+                "name": "Stronghold Conquest",
+                "last_modified": 1686291983,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464320,
+                "name": "BallX",
+                "last_modified": 1686490220,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464510,
+                "name": "Sylvantia",
+                "last_modified": 1686345649,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464520,
+                "name": "Surviving Deponia",
+                "last_modified": 1686663716,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464540,
+                "name": "Paws (CPC/Spectrum)",
+                "last_modified": 1686641943,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464660,
+                "name": "WarBreeds",
+                "last_modified": 1686571618,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464670,
+                "name": "Take No Prisoners",
+                "last_modified": 1686571604,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464680,
+                "name": "Necrodome",
+                "last_modified": 1686571600,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2464690,
+                "name": "CyClones",
+                "last_modified": 1686571557,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465110,
+                "name": "HEAVY Sword",
+                "last_modified": 1686668734,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465300,
+                "name": "Loop Kingdom",
+                "last_modified": 1686163193,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465360,
+                "name": "Oudbiao's World",
+                "last_modified": 1686334295,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465780,
+                "name": "Push That Cat!!",
+                "last_modified": 1686302009,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465840,
+                "name": "Club Velvet Rose: Midnight Bliss",
+                "last_modified": 1686402212,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2465930,
+                "name": "Vaporwave Pinball",
+                "last_modified": 1686603257,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466230,
+                "name": "\u611a\u4eba\u4e4b\u591c",
+                "last_modified": 1686498700,
+                "price_change_number": 19066489
+            },
+            {
+                "appid": 2466320,
+                "name": "MathGame",
+                "last_modified": 1686462989,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466450,
+                "name": "Mechanics",
+                "last_modified": 1686339328,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466500,
+                "name": "Hoppy Square DX",
+                "last_modified": 1686270385,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466740,
+                "name": "Chef Capybara",
+                "last_modified": 1686460816,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466750,
+                "name": "Wrong God",
+                "last_modified": 1686460802,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466820,
+                "name": "Imprecision",
+                "last_modified": 1686687712,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466850,
+                "name": "3D PUZZLE - Battle Royal",
+                "last_modified": 1686328645,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466870,
+                "name": "3D PUZZLE - Desert Wind",
+                "last_modified": 1686245366,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466880,
+                "name": "3D PUZZLE - Farming",
+                "last_modified": 1686245478,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466890,
+                "name": "3D PUZZLE - Medieval Inn",
+                "last_modified": 1686244879,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2466920,
+                "name": "Finish Report",
+                "last_modified": 1686584733,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467030,
+                "name": "The Castle",
+                "last_modified": 1686571524,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467070,
+                "name": "Inner Seasons",
+                "last_modified": 1686345956,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467180,
+                "name": "BugWorld",
+                "last_modified": 1686270744,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467200,
+                "name": "Realms and Ruins: Abencor",
+                "last_modified": 1686505146,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467370,
+                "name": "Target Party",
+                "last_modified": 1686296179,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467590,
+                "name": "Tides of Despair",
+                "last_modified": 1686416513,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467710,
+                "name": "Dash For Your Life",
+                "last_modified": 1686673335,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467830,
+                "name": "Dreamscape Abyss",
+                "last_modified": 1686597015,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467910,
+                "name": "Pirate Runner",
+                "last_modified": 1686326716,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2467920,
+                "name": "Epic Knight 2",
+                "last_modified": 1686291739,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2468330,
+                "name": "Enigma Playground",
+                "last_modified": 1686520397,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2468670,
+                "name": "Little Locked Rooms",
+                "last_modified": 1686623855,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2468900,
+                "name": "Upside The Backrooms",
+                "last_modified": 1686674691,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2468990,
+                "name": "Idle Ultimate",
+                "last_modified": 1686669076,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469050,
+                "name": "Kittengumi: The Sakabato Thief",
+                "last_modified": 1686362519,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469320,
+                "name": "Cthulhu Must Die",
+                "last_modified": 1686689798,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469360,
+                "name": "Grapploteer",
+                "last_modified": 1686595040,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469550,
+                "name": "Survival & Horror: Mortanis Prisoners Prologue",
+                "last_modified": 1686433190,
+                "price_change_number": 19099791
+            },
+            {
+                "appid": 2469610,
+                "name": "Forklift Simulator 2023",
+                "last_modified": 1686673426,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469740,
+                "name": "Heist Force",
+                "last_modified": 1686339039,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2469900,
+                "name": "Pew Pew Rocket!",
+                "last_modified": 1686560747,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2470120,
+                "name": "Flower Flurry",
+                "last_modified": 1686674490,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2470270,
+                "name": "The Endless Dream",
+                "last_modified": 1686653586,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2470290,
+                "name": "Brick Exorcist",
+                "last_modified": 1686627651,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2470650,
+                "name": "Cones in Space",
+                "last_modified": 1686579638,
+                "price_change_number": 19109403
+            },
+            {
+                "appid": 2470770,
+                "name": "Triple Treble Triumph",
+                "last_modified": 1686670493,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2470830,
+                "name": "Repeat After Me",
+                "last_modified": 1686596977,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2471600,
+                "name": "Impossible Stunts",
+                "last_modified": 1686643485,
+                "price_change_number": 0
+            },
+            {
+                "appid": 2471620,
+                "name": "Fly Fly Dragon!",
+                "last_modified": 1686643489,
+                "price_change_number": 0
+            }
+        ]
+    }
+}

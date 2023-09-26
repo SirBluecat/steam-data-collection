@@ -1,0 +1,5 @@
+File 1: Each row is a unique game with information about that game. Possibly json/dict
+    * col1 = app_id, col2 = steam rating(?), col3 = genres, col4 = critical review?
+File 2: pandas dataframe where col1 = user_id, col2 = app_id, col3 = user playtime, col4 = user ranking (Thumbs up, down, none)
+    * Users collected by getting 40 reviews for each app_id
+    * Then for each user, check their playtime and ranking for each game
