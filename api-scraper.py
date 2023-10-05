@@ -3,7 +3,6 @@ import json
 
 # Defining api to call most played games
 # Reference: https://steam.readthedocs.io/en/stable/api/steam.webapi.html
-# most_played_api = WebAPI(key='DA3BA54FF1CECDD242659388A3951404', format='json', https=True, apihost='api.steampowered.com')
 
 def get_keys(path):
     with open(path) as f:
